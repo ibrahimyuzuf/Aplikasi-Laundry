@@ -1,0 +1,18 @@
+.dropdown-toggle,
+.dropdown-menu {
+	border-radius: 0px !important;
+}
+
+.dropdown-item:hover {
+	color: white;
+	background-color: #f3a20c;
+}
+
+.btn-danger {
+	width: 55%;
+}
+
+/*
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}*/
